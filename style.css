@@ -98,8 +98,8 @@ main {
 /* bottom part */
 .card-profile {
   display: grid;
-  gap: var(--size-500);
-  grid-template-columns: repeat(4 auto);
+  gap: var(--size-400);
+  /* grid-template-columns: repeat(4, auto); */
   background: var(--clr-neutral-100);
   padding: var(--size-600) var(--size-800) var(--size-800);
   border-radius: var(--size-200);
